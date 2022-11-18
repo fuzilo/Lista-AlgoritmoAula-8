@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668728085 source:c:\users\convidado_\desktop\listaalgoritmosc\exerciciosalgoritmos\main.c
+	<stdio.h>
+	<stdlib.h>
+

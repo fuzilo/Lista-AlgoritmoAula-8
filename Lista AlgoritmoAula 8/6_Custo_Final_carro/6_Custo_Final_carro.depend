@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668685261 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\6_custo_final_carro\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

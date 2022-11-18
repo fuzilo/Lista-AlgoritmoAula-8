@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667351617 source:c:\users\convidado_\desktop\listaalgoritmosc\idade_em_dias\main.c
+	<stdio.h>
+	<stdlib.h>
+
